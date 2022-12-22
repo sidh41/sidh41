@@ -1,3 +1,6 @@
+![Linkedin Cover - Company](https://user-images.githubusercontent.com/32062337/209069844-7aa483d7-cf8c-4b92-a9c6-04565f92d91a.png)
+
+
 - 👋 Hi, I’m Siddhesh Shedge
 - 👀 I’m a UI Developer with over 5 years of successful experience in information technology and the healthcare industry. 
      Skilled in Ionic Framework, User Interface Design, Responsive Design, Bootstrap, and JavaScript/JQuery. 
