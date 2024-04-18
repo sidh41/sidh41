@@ -2,7 +2,7 @@
 
 
 - 👋 Hi, I’m Siddhesh Shedge
-- 👀 I’m a UI Developer with over 6+ years of successful experience in information technology and the healthcare industry. 
+- 👀 I’m a UI Designer with over 6+ years of successful experience in information technology and the healthcare industry. 
      Skilled in Ionic Framework, User Interface Design, Responsive Design, Bootstrap, and JavaScript/JQuery. 
      I can design a Cross-Platform mobile application build using HTML, SCSS, Ionic, Angular, React and Capacitor and even deploy it to store as well.
 - 🌱 I'm currently exploring Ionic Angular and React as it helps me to develop applications with my existing skills.
