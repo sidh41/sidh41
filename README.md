@@ -7,7 +7,7 @@
      I can design a Hybrid platform mobile application build using HTML, SCSS, Ionic, Angular, and React.
 - 🌱 I'm currently exploring Flutter Dart
 - 💞️ Sharing UI Components source code for Ionic Angular | React : https://codemyionic.com
-- 💪 Portfolio: https://portfolio.sconn.co.in/
+- 💪 Portfolio {Proof of Work} : https://portfolio.sconn.co.in/
 - 📫 To know more visit : https://www.linkedin.com/in/siddhesh-shedge , https://twitter.com/Sidh_41
 
 <!---
